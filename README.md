@@ -1,4 +1,3 @@
-
 # Churrascômetro
 
 ## 📚 Descrição
@@ -24,7 +23,3 @@ npm i
 ```bash
 npm run test
 ```
-
-
-
-
